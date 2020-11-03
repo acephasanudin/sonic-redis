@@ -1,2 +1,2 @@
 # sonic-redis
-nodejs with redis example usage
+nodejs with redis simple implementation
